@@ -9048,11 +9048,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump"
     }
    ],
    "referenced_type" : "_ZTIFRN7android10TextOutputES1_E",
-   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
+   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
    "self_type" : "_ZTIFRN7android10TextOutputES1_E",
    "source_file" : "frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
@@ -15571,7 +15571,7 @@
      "referenced_type" : "_ZTIPN7android8BpBinderE"
     },
     {
-     "referenced_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump"
+     "referenced_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump"
     },
     {
      "default_arg" : true,
@@ -16496,7 +16496,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTINSt3__16vectorIN7android2spINS1_10RpcSessionEEENS_9allocatorIS4_EEEE",
@@ -16509,7 +16509,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIj",
@@ -16522,7 +16522,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIN7android2spINS_7IBinderEEE",
@@ -16535,7 +16535,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIN7android4base14unique_fd_implINS0_13DefaultCloserEEE",
@@ -16548,7 +16548,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -16564,7 +16564,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_7IBinderEEE"
@@ -16580,7 +16580,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -16599,7 +16599,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIj"
@@ -16615,7 +16615,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2wpINS_7IBinderEEE"
@@ -16632,7 +16632,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android16RpcSocketAddressE"
@@ -16649,7 +16649,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTION7android2spINS_9RpcServerEEE"
@@ -16668,7 +16668,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIN7android4base14unique_fd_implINS0_13DefaultCloserEEE"
@@ -16684,7 +16684,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIRKN7android2spINS_10RpcSessionEEE"
@@ -16700,7 +16700,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     },
     {
      "referenced_type" : "_ZTIPKc"
@@ -16716,7 +16716,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIj",
@@ -16729,7 +16729,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16748,7 +16748,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16761,7 +16761,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIb",
@@ -16774,7 +16774,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIb",
@@ -16788,7 +16788,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16802,7 +16802,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16815,7 +16815,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16828,7 +16828,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16841,7 +16841,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -16979,13 +16979,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
+     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
     },
     {
      "referenced_type" : "_ZTIRA4_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump",
+   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump",
    "source_file" : "frameworks/native/libs/binder/include/binder/TextOutput.h",
    "template_args" : [ "_ZTIA4_c" ]
   },
@@ -16995,13 +16995,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
+     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
     },
     {
      "referenced_type" : "_ZTIRA5_Kc"
     }
    ],
-   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump",
+   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump",
    "source_file" : "frameworks/native/libs/binder/include/binder/TextOutput.h",
    "template_args" : [ "_ZTIA5_c" ]
   },
@@ -17059,13 +17059,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
+     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
     },
     {
      "referenced_type" : "_ZTIRKPc"
     }
    ],
-   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump",
+   "return_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump",
    "source_file" : "frameworks/native/libs/binder/include/binder/TextOutput.h",
    "template_args" : [ "_ZTIPc" ]
   },
@@ -19773,7 +19773,7 @@
      "referenced_type" : "_ZTIPKN7android6ParcelE"
     },
     {
-     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
+     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/Parcel.sdump"
     },
     {
      "default_arg" : true,
@@ -21714,19 +21714,19 @@
   {
    "linker_set_key" : "_ZN7android4aerrE",
    "name" : "android::aerr",
-   "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
+   "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
    "source_file" : "frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "linker_set_key" : "_ZN7android4alogE",
    "name" : "android::alog",
-   "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
+   "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
    "source_file" : "frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
    "linker_set_key" : "_ZN7android4aoutE",
    "name" : "android::aout",
-   "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
+   "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump",
    "source_file" : "frameworks/native/libs/binder/include/binder/TextOutput.h"
   },
   {
@@ -22462,8 +22462,8 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE",
    "name" : "const android::sp<android::IBinder::DeathRecipient> &",
-   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
-   "self_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
+   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
+   "self_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
    "size" : 4,
    "source_file" : "system/core/libutils/include/utils/RefBase.h"
   },
@@ -24418,7 +24418,7 @@
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKN7android2spINS_7IBinder14DeathRecipientEEE",
    "name" : "const android::sp<android::IBinder::DeathRecipient> *",
-   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
+   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
    "self_type" : "_ZTIPKN7android2spINS_7IBinder14DeathRecipientEEE",
    "size" : 4,
    "source_file" : "system/core/libutils/include/utils/StrongPointer.h"
@@ -30509,7 +30509,7 @@
     {
      "access" : "private",
      "field_name" : "mTO",
-     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump"
+     "referenced_type" : "_ZTIRN7android10TextOutputE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/BufferedTextOutput.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android10TextOutput6BundleE",
@@ -38108,7 +38108,7 @@
     {
      "access" : "private",
      "field_name" : "m_ptr",
-     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.Sv2_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
+     "referenced_type" : "_ZTIPN7android9RpcServerE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.32_arm_armv8-a_shared/obj/frameworks/native/libs/binder/RpcSession.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android2spINS_9RpcServerEEE",
